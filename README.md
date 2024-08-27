@@ -1,1 +1,6 @@
-# portfolio.github.io
+# portfolio.github.com
+
+Text.com
+
+## Education 
+Uniersidad log
